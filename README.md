@@ -20,14 +20,18 @@ To download the repository:
 
 Create a virtual environment (optional but recommended):
 
-\``python -m venv venv
+```
+python -m venv venv
 source venv/bin/activate    # macOS/Linux
-venv\Scripts\activate       # Windows``
+venv\Scripts\activate       # Windows
+```
 
 Then you need to install the basic dependencies to run the project on your system:
 
-`cd TCP-Chat-Room
-pip install -r requirements.txt`
+```
+cd TCP-Chat-Room  
+pip install -r requirements.txt 
+```
 
 Run the application:
 
